@@ -1,0 +1,41 @@
+body{
+    box-sizing: border-box;
+}
+h1{
+    background: #882726;
+    padding-left: 70%;
+    overflow: hidden;
+    height: 55px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: #faebd6;
+    padding-top: 10px;
+}
+.target{
+    background: #bfbfbf;
+    margin-left: 20px;
+    height: 60px;
+    padding-top: 37px;
+    padding-left: 20px;
+    overflow: hidden;
+}
+.targeta{
+    background: #6394eb;
+    margin-left: 20px;
+    height: 80px;
+    padding-top: 66px;
+    overflow: hidden;
+}
+.targetb{
+    background: #6bb967;
+    height: 250px;
+    width: 250px;
+    margin-left: 20px;
+}
+.targetc{ background: #8785aa;
+    height: 250px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
